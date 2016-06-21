@@ -1,4 +1,4 @@
-# systembuilderlib
+# System Builder Library
 SystemBuilder is an open-source Java Library for people who build systems using Java Swing and MySQL connection. It’s goal is to enable you to develop systems faster than you could if you were writing code from scratch.
 
  
